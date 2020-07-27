@@ -1,13 +1,9 @@
 Package: poRtland
-Title: An Amazing Shiny App
+Title: portland tree map
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
-License: What license is it under?
+Authors@R: person('Max', 'Blasdel', email = 'maxbladsel@gmail.COM', role = c('cre', 'aut'))
+Description: Interactive Dashboard of Portland Trees.
+License: MIT + file LICENSE
 Imports: 
     config,
     golem,
