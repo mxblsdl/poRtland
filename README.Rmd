@@ -35,9 +35,9 @@ You can install the released version of poRtland from [github](#)
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(poRtland)
+#library(poRtland)
 ## basic example code
-run_app()
+#run_app()
 # TODO check on this
 ```
 
