@@ -43,7 +43,7 @@ golem::use_recommended_tests()
 
 ## Use Recommended Packages ----
 golem::use_recommended_deps()
-
+usethis::use_package("shinymaterial")
 ## Favicon ----
 # If you want to change the favicon (default is golem's one)
 golem::remove_favicon()
